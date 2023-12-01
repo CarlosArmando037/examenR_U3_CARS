@@ -1,0 +1,8 @@
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\bin\Debug\RecuperacionU3_CARS.exe.config
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\bin\Debug\RecuperacionU3_CARS.exe
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\bin\Debug\RecuperacionU3_CARS.pdb
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\obj\Debug\RecuperacionU3_CARS.csproj.AssemblyReference.cache
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\obj\Debug\RecuperacionU3_CARS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\obj\Debug\RecuperacionU3_CARS.csproj.CoreCompileInputs.cache
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\obj\Debug\RecuperacionU3_CARS.exe
+C:\Users\CD15\Desktop\RecuperacionU3_CARS\obj\Debug\RecuperacionU3_CARS.pdb
